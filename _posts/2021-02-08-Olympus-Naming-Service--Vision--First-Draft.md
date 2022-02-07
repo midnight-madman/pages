@@ -6,10 +6,12 @@
 - increase utility and circulation of OHM 
 - allow Ohmies to register names like `zeus.ohm`
 - easily convert a hooman-readable name to wallet address (and in reverse) 
-- have one common identity and profile across the econOHMy 
+- have one common identity and profile across the [econOHMy](https://olympusdao.medium.com/building-an-econohmy-a5cf4e8671de) 
 
 ### **Why**
-OHM, the community-owned reserve currency, must be easy to send, receive and spend. The next wave of DeFi apps will rely on OHM as currency. The friction to use OHM as currency is a huge blocker towards increased adoption.
+OHM, the community-owned reserve currency, must be easy to send, receive and spend.  
+The next wave of DeFi apps will rely on OHM as currency.  
+The friction to use OHM as currency is a huge blocker towards increased adoption.
 
 **Existing Problems**
 - P2P transactions: a user must copy&paste long wallet addresses right now, no simple way to verify who you're sending money to
