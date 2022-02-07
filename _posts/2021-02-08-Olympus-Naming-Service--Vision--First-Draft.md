@@ -1,6 +1,8 @@
 ## Olympus Naming Service (ONS) - Vision - First Draft
 
-tl;dr:
+
+### tl;dr:
+
 - increase utility and circulation of OHM 
 - allow Ohmies to register names like `zeus.ohm`
 - easily convert a hooman-readable name to wallet address (and in reverse) 
